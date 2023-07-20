@@ -1,5 +1,5 @@
 # Module 11 
-Node.js and ES6+
+Node.js
 
 # Objective
 This application was created for users to take notes. The notes are fully editable, they are able to be stored and they can also be deleted.
